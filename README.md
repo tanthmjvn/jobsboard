@@ -1,12 +1,6 @@
-[![Pull Request Status](http://issuestats.com/github/rubytaiwan/jobs.ruby.tw/badge/pr?style=flat)](https://github.com/rubytaiwan/jobs.ruby.tw/pulls) [![Issue Status](http://issuestats.com/github/rubytaiwan/jobs.ruby.tw/badge/issue?style=flat)](https://github.com/rubytaiwan/jobs.ruby.tw/issues)
+# HCMUS - IT Jobs board
 
-# jobs.ruby.tw
-
-Job board for Ruby and Rails developers in Taiwan
-
-A free service by Ruby Taiwan http://ruby.tw
-
-[![Build Status](https://travis-ci.org/rubytaiwan/jobs.ruby.tw.svg?branch=master)](https://travis-ci.org/rubytaiwan/jobs.ruby.tw) [![Code Climate](https://codeclimate.com/github/rubytaiwan/jobs.ruby.tw.svg)](https://codeclimate.com/github/rubytaiwan/jobs.ruby.tw)
+Job board for the [HCMUS-IT group](https://www.facebook.com/groups/hcmusit/ "HCMUS-IT facebook group")
 
 ## Requirements
 
@@ -78,10 +72,11 @@ bin/rspec
 * http://www.workingwithrails.com/browse/jobs/recent
 * http://jobs.37signals.com/
 * http://jobs.rubynow.com/
+* https://github.com/rubytaiwan/jobs.ruby.tw
 
 ## Contributors
 
-See [full list of contributors](https://github.com/rubytaiwan/jobs.ruby.tw/graphs/contributors).
+See [full list of contributors](https://github.com/HCMUS-IT/jobsboard/graphs/contributors)].
 
 ## License
 
